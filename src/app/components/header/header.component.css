@@ -1,0 +1,9 @@
+.title
+{
+  display: flex;
+  justify-content: center;
+  margin: 50px auto;
+}
+.title h3{
+  font-size: 3rem;
+}
